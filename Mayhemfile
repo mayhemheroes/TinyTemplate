@@ -1,0 +1,6 @@
+project: TinyTemplate
+target: rendertemplate
+
+cmds:
+  - cmd: ./render_template
+    libfuzzer: true
