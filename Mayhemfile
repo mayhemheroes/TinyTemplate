@@ -1,0 +1,6 @@
+image: tngo04/tinytemplate:latest
+project: tngo04/tinytemplate
+target: render_template
+
+cmds:
+  - cmd: /render_template
